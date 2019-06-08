@@ -1,5 +1,5 @@
 ---
 title: "归档"
-description: Android资深工程师 ，Go和Java打杂师，《Android Gradle权威指南》作者，Android官方技术文档译者
+description: 专注于Java、Spring Boot、Spring Cloud、微服务、分布式、高并发、多线程、项目管理、软件架构
 type: archives
 ---
